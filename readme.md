@@ -1,5 +1,5 @@
 # Car Accidents Injury Predictions
-By: Jagandeep Singh & Yehuda Schein
+By: Jagandeep Singh & Jonathan Schein
 
 ## Introduction
 We are using "Chicago Car Crash Dataset." This dataset initially had 431,257 rows.
