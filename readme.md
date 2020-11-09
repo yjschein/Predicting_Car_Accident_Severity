@@ -2,9 +2,9 @@
 By: Jagandeep Singh & Yehuda Schein
 
 ## Introduction
-We are using "Chicago Car Crash Dataset." This dataset initially had 431257 rows.
+We are using "Chicago Car Crash Dataset." This dataset initially had 431,257 rows.
 The dataset included date and time, number of cars involved, weather condition,
-road condition, traffic way type, etc. We are predicting the severity of an accident.\
+road condition, traffic way type, and many other features as well. We are predicting the severity of an accident.\
 ![](images/geo.png)
 
 ## Data Cleaning
