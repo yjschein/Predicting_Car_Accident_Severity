@@ -17,7 +17,7 @@ The dataset can be found here:\
 https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if
 
 ## Hypothesis tests
-We performed two hypothesis tests on the data.
+We performed two hypothesis tests on the dataset.
 1. To check if the proportion of Severe Accidents is equal in Clear, Wet and Snow Weather Conditions.\
 ![](images/weather.png)
 2. To check if the proportion of Severe Accidents is equal in Dry, Snow and Wet Road Conditions.\
