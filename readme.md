@@ -24,7 +24,7 @@ We performed two hypothesis tests on the data.
 ![](images/road.png)
 
 ## Data Analysis and Visualization
-In our analysis, we checked the hour of accidents. Most accidents occur during the
+In our analysis, we checked the hour that the cars were in accidents. Most accidents occur during the
 morning and evening rush hour. Then we looked at the severity of an accident with
 the road condition and Weather condition at the time of accident. Then we looked at
 the number of severe and non severe accidents in different seasons.\
