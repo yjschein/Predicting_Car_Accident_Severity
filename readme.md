@@ -8,7 +8,7 @@ road condition, traffic way type, and many other features as well. We are predic
 ![](images/geo.png)
 
 ## Dataset
-We used the "Chicago Car Crash Dataset" from Kaggle.com
+We used the "Chicago Car Crash Dataset" from Kaggle.com. The dataset initially had 431,257 rows, but we shrunk it down enough to clean the data and also not lose valuable information that would effect our results. 
 
 ## Data Cleaning
 The dataset initially had 431257 rows and 49 columns. Most of the columns were
