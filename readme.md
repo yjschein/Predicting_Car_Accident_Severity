@@ -2,13 +2,11 @@
 By: Jagandeep Singh & Jonathan Schein
 
 ## Introduction
-This dataset initially had 431,257 rows.
-The dataset included date and time, number of cars involved, weather condition,
-road condition, traffic way type, and many other features as well. We are predicting the severity of an accident.\
+We are predicting the severity of an accident.\
 ![](images/geo.png)
 
 ## Dataset
-We used the "Chicago Car Crash Dataset" from Kaggle.com. The dataset initially had 431,257 rows, but we shrunk it down enough to clean the data and also not lose valuable information that would effect our results. 
+We used the "Chicago Car Crash Dataset" from Kaggle.com. The dataset initially had 431,257 rows, but we shrunk it down enough to clean the data and also not lose valuable information that would effect our results. Some of the features that are included are number of cars, weather and road condition, traffic way type and a bunch of others as well. 
 
 ## Data Cleaning
 The dataset initially had 431257 rows and 49 columns. Most of the columns were
