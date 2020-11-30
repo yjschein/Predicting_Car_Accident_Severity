@@ -2,10 +2,13 @@
 By: Jagandeep Singh & Jonathan Schein
 
 ## Introduction
-We are using the "Chicago Car Crash Dataset" from Kaggle.com. This dataset initially had 431,257 rows.
+This dataset initially had 431,257 rows.
 The dataset included date and time, number of cars involved, weather condition,
 road condition, traffic way type, and many other features as well. We are predicting the severity of an accident.\
 ![](images/geo.png)
+
+## Dataset
+We used the "Chicago Car Crash Dataset" from Kaggle.com
 
 ## Data Cleaning
 The dataset initially had 431257 rows and 49 columns. Most of the columns were
