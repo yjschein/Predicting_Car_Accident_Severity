@@ -57,5 +57,5 @@ immediately notify the EMTs. This notification can also include what features we
 involved in the accident (i.e. pedestrian, sideswipe, speeding etc.)  and be able
 to conclude whether or not this accident is severe and how much attention it needs.
 
-Link to our presentation:/
+Link to our presentation:
 https://docs.google.com/presentation/d/1A5nPFqrnkGodolwsg-AYhul6f0UhpoYbqCpimEwe1uY/edit?usp=sharing
