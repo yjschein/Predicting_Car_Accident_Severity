@@ -2,7 +2,7 @@
 By: Jagandeep Singh & Jonathan Schein
 
 ## Introduction
-We are predicting the severity of an accident.\
+We are predicting the severity of an accident.
 ![](images/geo.png)
 
 ## Dataset
