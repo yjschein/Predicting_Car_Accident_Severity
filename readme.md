@@ -9,10 +9,10 @@ We are predicting the severity of an accident.
 We used the "Chicago Car Crash Dataset" from Kaggle.com. The dataset initially had 431,257 rows, but we shrunk it down enough to clean the data and also not lose valuable information that would effect our results. Some of the features that are included are number of cars, weather and road condition, traffic way type and a bunch of others as well. 
 
 ## Data Cleaning
-The dataset initially had 431257 rows and 49 columns. Most of the columns were
+The dataset initially had 431,257 rows and 49 columns. Most of the columns were
 not useful for our model so we ended up keeping only 23 columns. A few hundred
-rows had nan values but since our data set had 400 thousand observation, we removed
-all the rows with nan values. After data cleaning we were left with 430398 rows.
+rows had Nan values but since our data set had 400 thousand observation, we removed
+all the rows with Nan values. After data cleaning we were left with 430,398 rows.
 
 The dataset can be found here:\
 https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if
